@@ -1,0 +1,5 @@
+scalable vector
+Stacked Graphs
+Stem-and-Leaf Plots
+Q-Q Plots
+Scatter Plot Matrix
